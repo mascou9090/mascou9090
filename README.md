@@ -18,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </div>
 
-![Snake animation](https://github.com/mascou9090/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
 
 <div>
     <a href="https://instagram.com/marcondes_soeu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
