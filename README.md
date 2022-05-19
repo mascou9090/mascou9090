@@ -1,12 +1,9 @@
-## Olá, me chamo Marcondes ! 
-### Bem vindo ao meu perfil GitHub 👋
+mascou9090/README.md
+Sou Marcondes F Pinheiro
+Estou atualmente estudando Analise e Desenvolvimento de Sistemas
+Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador. Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
+Sempre em busca de aprender novas tecnologias como "React, TypeScript". Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
 
-- 🔭 Atualmente estou estagiándo em Infraestrutura...
-- 🌱 Atualmente estou aprendendo React...
-- 👯 Estou procurando colaborar em algum projeto que me some conhecimentos em React...
-- 💬 Pergunte-me sobre Lineage2 ou Terraria...
-- 📫 Como entrar em contato comigo: Clica ali no meu email, linkedin ou no instagram...
-- ⚡ Curiosidade: Sou o caçula da familha...
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
@@ -14,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 
