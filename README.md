@@ -1,5 +1,5 @@
-mascou9090/README.md
-Sou Marcondes F Pinheiro
+# Sou Marcondes F Pinheiro
+
 Estou atualmente estudando Analise e Desenvolvimento de Sistemas
 Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador. Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
 Sempre em busca de aprender novas tecnologias como "React, TypeScript". Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
