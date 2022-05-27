@@ -1,8 +1,10 @@
 # Sou Marcondes F Pinheiro
 
 Estou atualmente estudando Analise e Desenvolvimento de Sistemas
-Pouco tempo na área, mais venho implementando estratégias para obter bastante experiência como programador. Tecnologia esse é meu foco, gosto de qualquer (coisa) relacionado.
-Sempre em busca de aprender novas tecnologias como "React, TypeScript". Estou me esforçando a cada dia para adquirir mais conhecimento na área da tecnologia.
+Obtive uma ampla experiência no ramo da Infraestrutura de redes, a respieto de um estágio(Muito bom por sinal)
+Aprendi sobre rotas, segurança, arquitetura de redes e sobre VMs etc..
+Apesar do pouco tempo, mais venho implementando estratégias para obter bastante experiência na area de desenvolvimento de software. Tecnologia esse é meu foco, gosto de tudo que é relacionado.
+Sempre em busca de aprender novas tecnologias como React ou TypeScript. Estou me esforçando a cada dia para adquirir mais conhecimento na área. :blush::green_heart::computer:
 
 
 <div>
