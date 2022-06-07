@@ -1,9 +1,11 @@
 # Sou Marcondes F Pinheiro
 
-Formado em Analise e Desenvolvimento de Sistemas
-Experiência em Infraestrutura de redes e em Desenvolvimento em Front end
-Apesar do pouco tempo, mais venho implementando estratégias para obter bastante experiência na area de desenvolvimento de software. 
-Sempre em constante evolução com React e TypeScript. Estou me esforçando a cada dia para adquirir mais conhecimento na área. :blush::green_heart::computer:
+Formado em Analise e Desenvolvimento de Sistemas. </br>
+Breve conhecimentos em Infraestrutura de redes e em Desenvolvimento Front end. </br>
+Apesar do pouco tempo, mas venho implementando estratégias para obter bastante experiência na area de desenvolvimento de software. </br>
+Sempre em constante evolução. </br>
+Estudando e criando projetos com React e TypeScript para assim consolidar meus conhecimentos. </br>
+Estou me esforçando a cada dia para não para minha evolução. :blush::green_heart::computer:
 
 
 <div>
