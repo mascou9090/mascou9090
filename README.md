@@ -5,7 +5,7 @@ Breve conhecimentos em Infraestrutura de redes e em Desenvolvimento Front end. <
 Apesar do pouco tempo, Porem tenho estratégias para obter experiência na área de desenvolvimento de software. </br>
 Sempre em constante evolução. </br>
 Estudando e criando projetos com React e TypeScript para assim consolidar meus conhecimentos. </br>
-Estou me esforçando a cada dia para não para minha evolução. :blush::green_heart::computer:
+Estou me esforçando a cada dia para minha evolução. :blush::green_heart::computer:
 
 
 <div>
