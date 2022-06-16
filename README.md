@@ -2,7 +2,7 @@
 
 Formado em Analise e Desenvolvimento de Sistemas. </br>
 Breve conhecimentos em Infraestrutura de redes e em Desenvolvimento Front end. </br>
-Apesar do pouco tempo, mas venho implementando estratégias para obter bastante experiência na area de desenvolvimento de software. </br>
+Apesar do pouco tempo, Porem tenho estratégias para obter experiência na área de desenvolvimento de software. </br>
 Sempre em constante evolução. </br>
 Estudando e criando projetos com React e TypeScript para assim consolidar meus conhecimentos. </br>
 Estou me esforçando a cada dia para não para minha evolução. :blush::green_heart::computer:
